@@ -1,4 +1,3 @@
-    <meta charset="urf-8">
 </head>
 <body>
   <h1><a href="Zero hour.html">Zero Hour</a></h1>
