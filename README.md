@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head>
   <tittle>Zero Hour</tittle>
