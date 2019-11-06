@@ -1,6 +1,3 @@
-<html>
-<head>
-  <tittle>Zero Hour</tittle>
     <meta charset="urf-8">
 </head>
 <body>
